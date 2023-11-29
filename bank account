@@ -1,0 +1,3 @@
+create an app that mimics an ATM machine
+make sure it saves the costumer data before the app exists and load at when the apps boots
+don't forget to calculate service charge
